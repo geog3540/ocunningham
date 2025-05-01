@@ -1,21 +1,48 @@
+/* Set global font style */
 html {
   font-family: Georgia, Times, serif;
   font-size: 22px;
   line-height: 32px;
 }
 
+/* Style hyperlinks */
 a {
   color: orange;
 }
 
+/* Change link color on hover */
 a:hover {
   color: red;
 }
 
+/* Style paragraphs */
 p {
   background-color: #dddddd;
   padding: 20px;
   width: 320px;
   margin: 10px;
   float: left;
+}
+
+/* Style the wrapper div */
+#wrapper {
+  margin: 0px auto;
+  width: 800px;
+  background-color: #eeeeee;
+  padding: 20px;
+  overflow: auto; /* clears floats */
+}
+
+/* Style the image */
+img {
+  padding: 20px;
+  width: 320px;
+  margin: 10px;
+  float: left;
+}
+
+/* Style the heading */
+h1 {
+  font-family: Verdana, Geneva, sans-serif;
+  margin-left: 22px;
 }
