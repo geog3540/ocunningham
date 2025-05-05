@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Final Project – Drought Vulnerability in California</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <div id="wrapper">
+    <h1>Final Project: Drought Vulnerability in California</h1>
+    <p>This project explores drought vulnerability across California by visualizing a series of factors that contribute to risk and resilience. The maps below highlight environmental stress, water infrastructure, social vulnerability, and other geographic indicators.</p>
+
+    <h2>Map 1: Drought-Prone Regions</h2>
+    <p>[Embed or link to your first Observable notebook here]</p>
+
+    <h2>Map 2: Water Infrastructure & Access</h2>
+    <p>[Embed or link to your second Observable notebook here]</p>
+
+    <h2>Map 3: Socioeconomic Vulnerability</h2>
+    <p>[Embed or link to your third Observable notebook here]</p>
+
+    <h2>Map 4 (Optional): Agricultural or Wildfire Overlay</h2>
+    <p>[Embed or link to your fourth Observable notebook or image here]</p>
+
+    <p>Each map includes analysis of the relevant spatial patterns, contributing to a better understanding of drought-related risks and planning strategies in California.</p>
+  </div>
+</body>
+</html>
